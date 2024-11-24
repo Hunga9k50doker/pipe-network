@@ -42,7 +42,7 @@ With these insights, they can reroute traffic dynamically to avoid bottlenecks, 
 1. Clone this repository:
    ```bash
    git clone https://github.com/Hunga9k50doker/pipe-network.git
-   cd pipe-bot
+   cd pipe-network
    ```
 2. Install dependencies:
    ```bash
