@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.2",
+    "fs": "^0.0.1-security",
     "https-proxy-agent": "^7.0.5",
     "node-fetch": "^2.7.0",
     "readline-sync": "^1.4.10"
